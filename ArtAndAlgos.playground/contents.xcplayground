@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Computational Geometry'/>
+        <page name='Delaunay Triangulation'/>
+        <page name='Colorful Delaunay'/>
+        <page name='Image To Art'/>
+        <page name='References'/>
+    </pages>
+</playground>
