@@ -1,3 +1,1 @@
 # ArtAndAlgos
-
-Test
